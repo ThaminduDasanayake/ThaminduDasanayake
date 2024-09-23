@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+<h1 align="center">Hi 👋, I'm Thamindu Dasanayake</h1>
+<h3 align="center">I'm a Software Engineering Undergraduate at Informatics Institute of Technology, Sri Lanka</h3>
+
+
 **ThaminduDasanayake/ThaminduDasanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
