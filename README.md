@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Thamindu Dasanayake</h1>
 <h3 align="center">I'm a Software Engineering Undergraduate at Informatics Institute of Technology, Sri Lanka</h3>
 
