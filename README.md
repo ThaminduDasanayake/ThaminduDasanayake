@@ -1,5 +1,8 @@
 ## Hi 👋, I'm Thamindu Dasanayake
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-007ACC?style=for-the-badge&logo=Vercel&logoColor=white)](https://thamindu-dasanayake.vercel.app/)
+
 🎓 Software Engineering Undergraduate at Informatics Institute of Technology, Sri Lanka<br/>
+🌐 Check out my latest projects on my **[Personal Portfolio](https://your-portfolio-url-here.vercel.app)**<br/>
 💡 Passionate about building scalable web apps and AI-driven solutions<br/>
 🧠 Curious about the intersection of AI, cloud, and full-stack development<br/>
 🔧 Enjoy working across the stack — from database design to frontend polish<br/>
